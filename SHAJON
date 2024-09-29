@@ -1,2 +1,2 @@
 #!/data/data/com.termux/files/usr/bin/python
-print("\x1b[1;32mI AM OFFLINE FOR THIS CAUSE TOOL OFF NOW")
+print("I AM OFFLINE FOR THIS CAUSE TOOL OFF NOW")
