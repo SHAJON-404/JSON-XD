@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/python
 import os
-fromos import system as SHAJON
+from os import system as SHAJON
 SHAJON("clear")
 
 print("\x1b[1;32mI AM OFFLINE FOR THIS CAUSE TOOL OFF NOW")
