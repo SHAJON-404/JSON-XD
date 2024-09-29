@@ -1,2 +1,2 @@
-#!/data/data/com.termux/files/usr/bin/python
-print("I AM OFFLINE FOR THIS CAUSE TOOL OFF NOW")
+#!/bin/bash
+echo "I AM OFFLINE FOR THIS CAUSE TOOL OFF NOW"
