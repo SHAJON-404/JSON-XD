@@ -1,4 +1,6 @@
 ## [𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗣𝗔𝗜𝗗 𝗧𝗢𝗢𝗟]
+
+## [𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : python3.12]
  
 ## :hammer_and_wrench: Features
  
@@ -10,6 +12,7 @@
 ## :rocket: Installation
  
 ```bash
+cd $HOME
 rm -rf JSON-XD
 git clone --depth=1 https://github.com/SHAJON-404/JSON-XD.git
 cd JSON-XD
