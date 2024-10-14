@@ -17,5 +17,5 @@ rm -rf JSON-XD
 git clone --depth=1 https://github.com/SHAJON-404/JSON-XD.git
 cd JSON-XD
 chmod +x *
-./SHAJON
+./XD
 ```
