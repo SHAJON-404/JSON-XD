@@ -1,3 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/python3
+import os
+from os import system as SANJIDA
+SANJIDA("clear")
 
 print("<|||> TOOL OFF NOW....!!")
